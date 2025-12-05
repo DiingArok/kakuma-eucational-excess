@@ -1,1 +1,1 @@
-# kakuma-eucational-excess
+# kakuma-educational-access
