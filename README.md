@@ -20,7 +20,7 @@ digital reach
 learning outcomes
 # bussiness data understanding
 
-![
+![Images](kakuma area/.jpeg)
 
 Data sources 
 schoolrecords.Enrollment,attendance,grades
