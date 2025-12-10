@@ -19,6 +19,9 @@ Enrollment growth
 digital reach
 learning outcomes
 # bussiness data understanding
+
+![
+
 Data sources 
 schoolrecords.Enrollment,attendance,grades
 platform analytics. E-LEARNING USAGE stats.
